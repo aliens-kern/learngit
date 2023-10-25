@@ -6,4 +6,4 @@ a man gotta have a code
 better call saul
 breaking bad
 creat new branch
-creat new branch is quick simple
+creating new branch
